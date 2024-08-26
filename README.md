@@ -58,3 +58,18 @@ Displays the summarized text and video thumbnail, providing users with a clear a
 9. Open your browser and go to
      `http://127.0.0.1:5000/`
 
+### 🌍 Deployment on AWS
+
+This application is deployed on AWS using an EC2 instance for scalability and reliability. Here’s the process:
+
+**EC2 Instance Setup:**
+- Launched an EC2 instance with the necessary configuration and Amazon Machine Image (AMI) for Flask.
+- Configured security groups to allow HTTP/HTTPS traffic.
+
+**Environment Setup:**
+- Connected to the EC2 instance using PuTTY for SSH access.
+- Installed Python, Flask, and all required dependencies using `requirements.txt`.
+
+**Application Deployment:**
+- Uploaded the project files to the EC2 instance using WinSCP.
+- Set up the Flask application to run on a specific port.
