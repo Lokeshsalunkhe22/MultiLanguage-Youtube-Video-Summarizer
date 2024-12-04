@@ -6,3 +6,4 @@ torchvision
 torchaudio
 flask
 deep_translator
+ipython
