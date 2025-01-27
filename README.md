@@ -73,3 +73,7 @@ This application is deployed on AWS using an EC2 instance for scalability and re
 **Application Deployment:**
 - Uploaded the project files to the EC2 instance using WinSCP.
 - Set up the Flask application to run on a specific port.
+
+![Screenshot 2024-04-28 200147](https://github.com/user-attachments/assets/776301be-d1d5-4efa-8c1e-13fc6dd04080)
+
+
